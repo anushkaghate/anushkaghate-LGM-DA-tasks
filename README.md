@@ -1,1 +1,2 @@
-# anushkaghate-LGM-DA-tasks
+# LGM_Task1
+Iris Flowers Classification ML Project
